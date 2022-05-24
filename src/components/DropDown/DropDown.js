@@ -78,7 +78,7 @@ const DropDown = () => {
 
     return (
         <div className='all-container'>
-           <div className='input-container d-flex flex-column flex-md-row justify-content-between '>
+           <div className='input-container d-flex flex-column flex-lg-row justify-content-between '>
                <div className='clear text-secondary' onClick={clear}>
                    <h5 className='m-0'>X</h5>
                </div>
@@ -91,7 +91,7 @@ const DropDown = () => {
                     </select>
                 </div>
 
-                <div className="input-group my-2 my-md-0 mx-0 mx-md-3 ">
+                <div className="input-group my-2 my-lg-0 mx-0 mx-lg-3 ">
                     <label className="input-group-text" htmlFor="inputGroupSelect02">Topics</label>
                     <select className="form-select" value={topic} onChange={(e)=>handleTopicChange(e)} id="inputGroupSelect02">
                         <option value="default" disabled hidden>Pick One</option>
@@ -100,7 +100,7 @@ const DropDown = () => {
                     </select>
                 </div>
 
-                <div className="input-group me-md-3 ">
+                <div className="input-group me-lg-3 ">
                     <label className="input-group-text" htmlFor="inputGroupSelect03">Learn</label>
                     <select value={learn} className="form-select" onChange={(e)=>handleLearnChange(e)} id="inputGroupSelect03">
                         <option value="default" disabled hidden>Pick One</option>
@@ -108,13 +108,20 @@ const DropDown = () => {
                         }
                     </select>
                 </div>
-
-                <div className='iframe-container d-flex flex-column justify-content-center my-2 my-md-0'>
+                
+                {/*
+                link &&
+                <div className='iframe-container d-flex flex-column justify-content-center my-2 my-lg-0'>
                 <a href={link} target="_blank" rel="noreferrer" className="text-decoration-none"> <span  id='link'>Tutorial</span></a>
                 </div>
+                */}
 
            </div>
-
+           {link &&
+            <div id='link' className='iframe-container d-flex flex-column justify-content-center my-4 my-lg-5 p-2 px-lg-5 py-lg-4'>
+            <a href={link} target="_blank" rel="noreferrer" className="text-decoration-none"> <span>Tutorial</span></a>
+            </div>
+            }  
            
         </div>
     );
