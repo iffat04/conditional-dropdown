@@ -1,0 +1,272 @@
+[
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Array",
+  "Learn": "concat()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_concat_array.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Array",
+  "Learn": "constructor",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_constructor_array.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Array",
+  "Learn": "copyWithin()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_copywithin.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Array",
+  "Learn": "entries()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_entries.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Boolean",
+  "Learn": "constructor",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_constructor_boolean.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Boolean",
+  "Learn": "prototype",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_prototype_boolean.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Boolean",
+  "Learn": "toString()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_tostring_boolean.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Boolean",
+  "Learn": "valueOf()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_valueof_boolean.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Date",
+  "Learn": "constructor",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_constructor_date.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Date",
+  "Learn": "getDate()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_getdate.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Date",
+  "Learn": "getDay()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_getday.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Date",
+  "Learn": "getFullYear()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_getfullyear.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Number",
+  "Learn": "constructor",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_constructor_number.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Number",
+  "Learn": "isFinite()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_isfinite_number.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Number",
+  "Learn": "isInteger()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_isinteger.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS Number",
+  "Learn": "isNaN()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_isnan_number.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS String",
+  "Learn": "toString()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_tostring_string.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS String",
+  "Learn": "toUpperCase()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_touppercase.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS String",
+  "Learn": "trim()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_trim_string.asp"
+ },
+ {
+  "Language": "JavaScript",
+  "Topic": "JS String",
+  "Learn": "valueOf()",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/jsref\/jsref_valueof_string.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Database",
+  "Learn": "SQL Create DB",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_create_db.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Database",
+  "Learn": "SQL Drop DB",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_drop_db.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Database",
+  "Learn": "SQL Backup DB",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_backup_db.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Database",
+  "Learn": "SQL Create Table",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_create_table.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Keywords",
+  "Learn": "ADD",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_ref_add.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Keywords",
+  "Learn": "ADD CONSTRAINT",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_ref_add_constraint.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Keywords",
+  "Learn": "ALL",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_ref_all.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Keywords",
+  "Learn": "ALTER",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/sql_ref_alter.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL String Functions",
+  "Learn": "ASCII",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_ascii.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL String Functions",
+  "Learn": "CHAR",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_char.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL String Functions",
+  "Learn": "CHARINDEX",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_charindex.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL String Functions",
+  "Learn": "CONCAT",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_concat.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Numeric Functions",
+  "Learn": "SQRT",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_sqrt.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Numeric Functions",
+  "Learn": "SQUARE",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_square.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Numeric Functions",
+  "Learn": "SUM",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_sum.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Numeric Functions",
+  "Learn": "TAN",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_tan.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Date Functions",
+  "Learn": "CURRENT_TIMESTAMP",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_current_timestamp.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Date Functions",
+  "Learn": "DATEADD",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_dateadd.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Date Functions",
+  "Learn": "DATEDIFF",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_datediff.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Date Functions",
+  "Learn": "DATEFROMPARTS",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_datefromparts.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Date Functions",
+  "Learn": "DATENAME",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_datename.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Advanced Functions",
+  "Learn": "SESSION_USER",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_session_user.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Advanced Functions",
+  "Learn": "SESSIONPROPERTY",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_sessionproperty.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Advanced Functions",
+  "Learn": "SYSTEM_USER",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_system_user.asp"
+ },
+ {
+  "Language": "Structured Query Language",
+  "Topic": "SQL Advanced Functions",
+  "Learn": "USER_NAME",
+  "LinkForIframe": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_user_name.asp"
+ }
+]
